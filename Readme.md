@@ -80,6 +80,7 @@ Now that the project is setup,
   make
 ```
 
+![image](https://github.com/user-attachments/assets/d111fd96-a954-4237-b0cc-455ac7058686)
 
 
 props to these articles
